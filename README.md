@@ -1,3 +1,3 @@
 # Timestamp Microservice
 
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
+This is a FreeCodeCamp project, built starting from the provided boilerplate. It is an exercise on the use of express routing, as well as some basic date/timestamp manipulation.
